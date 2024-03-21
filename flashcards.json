@@ -1,0 +1,274 @@
+[
+	{
+		"term": "Variables",
+		"definition": "Containers for storing data values"
+	},
+	{
+		"term": "var",
+		"definition": "Declares a variable, optionally initializing it to a value"
+	},
+	{
+		"term": "let",
+		"definition": "Declares a block-scoped local variable, optionally initializing it to a value."
+	},
+	{
+		"term": "const",
+		"definition": "Declares a block-scoped, read-only named constant."
+	},
+	{
+		"term": "Input",
+		"definition": "The data received by the program from a user or another program."
+	},
+	{
+		"term": "prompt",
+		"definition": "Displays a dialog with an optional message prompting the user to input some text."
+	},
+	{
+		"term": "addEventListener",
+		"definition": "Method used to capture user inputs in web pages."
+	},
+	{
+		"term": "Output",
+		"definition": "The way a program displays or transmits the result of its operations."
+	},
+	{
+		"term": "console.log",
+		"definition": "Outputs a message to the web console."
+	},
+	{
+		"term": "alert",
+		"definition": "Displays an alert dialog with the specified content and an OK button."
+	},
+	{
+		"term": "Lexical Environment",
+		"definition": "Where code sits in relation to any surrounding code"
+	},
+	{
+		"term": "Execution Context",
+		"definition": "How, Why, When, and Where code is executed"
+	},
+	{
+		"term": "JSON",
+		"definition": "JavaScript Object Notation, for storing objects and their enclosed data. Often referred to as Key Value Pairs"
+	}
+	{
+		"term": "Events",
+		"definition": "Actions or occurrences that happen in the system you are programming, which the system tells you about so your code can react to them."
+	}
+	{
+		"term": "click",
+		"definition": "An event that occurs when the user clicks on an element."
+	}
+	{
+		"term": "onchange",
+		"definition": "An event that occurs when the content of a form element, the selection, or the checked state have changed."
+	}
+	{
+		"term": "Data Types",
+		"definition": "Classification of data which tells the compiler or interpreter how the programmer intends to use the data."
+	}
+	{
+		"term": "String",
+		"definition": "Represents textual data."
+	}
+	{
+		"term": "Number",
+		"definition": "Represents numeric values."
+	}
+	{
+		"term": "Boolean",
+		"definition": "Represents boolean value (true or false)."
+	}
+	{
+		"term": "Undefined", 
+		"definition": "A variable that has not been assigned a value."
+	}
+	{
+		"term": "Null",
+		"definition": "Denotes a null value."
+	}
+	{
+		"term": "Arrays",
+		"definition": "High-level, list-like objects used to be traversed and mutated."
+	}
+	{
+		"term": "length (Arrays)",
+		"definition": "Property that returns the number of elements in an array."
+	}
+	{
+		"term": "push",
+		"definition": "Method that adds one or more elements to the end of an array."
+	}
+	{
+		"term": "Strings",
+		"definition": "Used to represent and manipulate a sequence of characters."
+	}
+	{
+		"term": "length (Strings)",
+		"definition": "Property that returns the length of a string."
+	}
+	{
+		"term": "charAt", 
+		"definition": "Method that returns the character at a specified index."
+	}
+	{
+		"term": "Template Literals",
+		"definition": "String literals allowing embedded expressions and multi-line strings."
+	}
+	{
+		"term": "Interpolation",
+		"definition": "Embedding expressions within string literals."
+	}
+	{
+		"term": "Tagged Templates", 
+		"definition": "Advanced form of template literals."
+	}
+	{
+		"term": "Array Functions", 
+		"definition": "Functions that operate on arrays and are used to manipulate array elements."
+	}
+	{
+		"term": "forEach", 
+		"definition": "Method that executes a provided function once for each array element."
+	}
+	{
+		"term": "map",
+		"definition": "Method that creates a new array with the results of calling a provided function on every element in the calling array."
+	}
+	{
+		"term": "Array Methods", 
+		"definition": "Predefined methods of an array, used for tasks like searching, sorting, and manipulating arrays."
+	}
+	{
+		"term": "sort", 
+		"definition": "Sorts the elements of an array in place and returns the array."
+	}
+	{
+		"term": "filter", 
+		"definition": "Creates a new array with all elements that pass the test implemented by the provided function."
+	}
+	{
+		"term": "Functions",
+		"definition": "Reusable blocks of code that are used to perform a single, related action."
+	}
+	{
+		"term": "Function Declaration", 
+		"definition": "Declares a function with the specified parameters."
+	}
+	{
+		"term": "Function Expression", 
+		"definition": "A function defined within an expression."
+	}
+	{
+		"term": "Conditionals", 
+		"definition": "Statements that perform different actions based on different conditions."
+	}
+	{
+		"term": "if", 
+		"definition": "Statement that specifies a block of code to be executed if a condition is true."
+	}
+	{
+		"term": "else", 
+		"definition": "Specifies a block of code to be executed if the same condition is false."
+	}
+	{
+		"term": "switch", 
+		"definition": "Specifies many alternative blocks of code to be executed."
+	}
+	{
+		"term": "Loops", 
+		"definition": "Statements that execute a block of code as long as a specified condition is true."
+	}
+	{
+		"term": "for", 
+		"definition": "Creates a loop that consists of three optional expressions."
+	}
+	{
+		"term": "while", 
+		"definition": "Creates a loop that executes a specified statement as long as the test condition evaluates to true."
+	}
+	{
+		"term": "Objects", 
+		"definition": "Collections of related data and/or functionality."
+	}
+	{
+		"term": "Properties", 
+		"definition": "Values associated with a JavaScript object."
+	}
+	{
+		"term": "Methods", 
+		"definition": "Functions associated with a JavaScript object."
+	}
+	{
+		"term": "Classes", 
+		"definition": "Templates for creating objects, providing initial values for state and implementations of behavior."
+	}
+	{
+		"term": "constructor", 
+		"definition": "A special method for creating and initializing objects created with a class."
+	}
+	{
+		"term": "extends", 
+		"definition": "Keyword used in class declarations to create a class as a child of another class."
+	}
+	{
+		"term": "JSON", 
+		"definition": "JavaScript Object Notation, a lightweight format for storing and transporting data."
+	}
+	{
+		"term": "parse", 
+		"definition": "Parses a JSON string, constructing the JavaScript value or object described by the string."
+	}
+	{
+		"term": "stringify", 
+		"definition": "Converts a JavaScript object or value to a JSON string."
+	}
+	{
+		"term": "Promises", 
+		"definition": "Objects representing the eventual completion or failure of an asynchronous operation."
+	}
+	{
+		"term": "then",
+		"definition": "Appends fulfillment and rejection handlers to the promise."
+	}
+	{
+		"term": "catch", 
+		"definition": "Appends a rejection handler callback to the promise."
+	}
+	{
+		"term": "Callbacks", 
+		"definition": "Functions passed as arguments to another function to be executed later."
+	}
+	{
+		"term": "Asynchronous Callbacks", 
+		"definition": "Executed at a later time point, after an asynchronous operation has completed."
+	}
+	{
+		"term": "Synchronous Callbacks",
+		"definition": "Executed immediately."
+	}
+	{
+		"term": "Async-Await",
+		"definition": "Syntax in JavaScript that allows for cleaner, more readable asynchronous code."
+	}
+	{
+		"term": "async", 
+		"definition": "Keyword that makes a function return a Promise."
+	}
+	{
+		"term": "await", 
+		"definition": "Keyword that makes a function wait for a Promise."
+	}
+	{
+		"term": "Local Storage", 
+		"definition": "A web storage API that allows JavaScript sites and apps to store and access data right in the browser with no expiration date."
+	}
+	{
+		"term": "setItem", 
+		"definition": "Method to save data in localStorage."
+	}
+	{
+		"term": "getItem", 
+		"definition": "Method to retrieve data from localStorage."
+	}
+]
